@@ -24,6 +24,7 @@ class SecureParsedownTest extends TestCase
     protected function initDirs()
     {
         $dirs []= dirname(__FILE__).'/data/';
+        $dirs []= dirname(__FILE__).'/../vendor/erusev/parsedown/test/data/';
 
         return $dirs;
     }
