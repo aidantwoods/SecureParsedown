@@ -33,5 +33,5 @@
         "psr-4": {
             "Aidantwoods\\SecureParsedown\\Tests\\": "tests/"
         }
-    },
+    }
 }
