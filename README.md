@@ -1,4 +1,4 @@
-# SecureParsedown
+# SecureParsedown [![Build Status](https://travis-ci.org/aidantwoods/SecureParsedown.svg?branch=master)](https://travis-ci.org/aidantwoods/SecureParsedown)
 
 Parsedown, with added XSS protections.
 
