@@ -4,6 +4,8 @@ namespace Aidantwoods\SecureParsedown;
 
 class SecureParsedown extends \Parsedown
 {
+    const version = '1.0.1';
+
     function setSafeMode($safeMode)
     {
         $this->safeMode = (bool) $safeMode;
