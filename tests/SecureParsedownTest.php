@@ -3,10 +3,9 @@
 namespace Aidantwoods\SecureParsedown\Tests;
 
 use DirectoryIterator;
-use PHPUnit\Framework\TestCase;
 use Aidantwoods\SecureParsedown\SecureParsedown;
 
-class SecureParsedownTest extends TestCase
+class SecureParsedownTest extends \PHPUnit_Framework_TestCase
 {
     final function __construct($name = null, array $data = array(), $dataName = '')
     {
