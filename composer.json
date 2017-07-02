@@ -1,6 +1,6 @@
 {
     "name": "aidantwoods/secureparsedown",
-    "description": "A Parsedown extension for Security.",
+    "description": "A Parsedown extension, for security.",
     "keywords": [
         "secure", "parsedown", "secureparsedown", "markdown", "parser"
     ],
