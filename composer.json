@@ -33,5 +33,10 @@
         "psr-4": {
             "Aidantwoods\\SecureParsedown\\Tests\\": "tests/"
         }
+    },
+    "config": {
+        "preferred-install": {
+            "erusev/parsedown": "source"
+        }
     }
 }
