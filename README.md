@@ -13,7 +13,14 @@ $Parsedown = new SecureParsedown;
 $Parsedown->setSafeMode(true);
 ```
 
-More info about this can be found at https://github.com/erusev/parsedown/pull/495
+SecureParsedown was created to accelerate a release of
+https://github.com/erusev/parsedown/pull/495.
+
+I do hope that https://github.com/erusev/parsedown/pull/495 eventually makes it
+into the core Parsedown library – at such time I shall remove unneeded
+overwritten methods in this extension. I will maintain SecureParsedown as a
+security focused early patch channel: so that finished security patches can be
+released ahead of Parsedown's currently slow release schedule.
 
 ---
 
